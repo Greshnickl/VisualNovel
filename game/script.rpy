@@ -43,98 +43,98 @@ image hall = "bg/hall.jpg"
 transform reduced_size:
     zoom 0.25
 
-image red_glow_gif:
-    "images/anim/frame_00_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_01_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_02_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_03_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_04_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_05_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_06_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_07_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_08_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_09_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_10_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_11_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_12_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_13_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_14_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_15_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_16_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_17_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_18_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_19_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_20_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_21_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_22_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_23_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_24_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_25_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_26_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_27_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_28_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_29_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_30_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_31_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_32_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_33_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_34_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_35_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_36_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_37_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_38_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_39_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_40_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_41_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_42_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_43_delay-0.07s.gif"
-    pause 0.07
-    "images/anim/frame_44_delay-0.07s.gif"
-    pause 0.07
-    repeat
+#image red_glow_gif:
+#    "images/anim/frame_00_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_01_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_02_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_03_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_04_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_05_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_06_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_07_delay-0.07s.gif"
+#    pause 0.07
+#   "images/anim/frame_08_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_09_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_10_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_11_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_12_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_13_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_14_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_15_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_16_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_17_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_18_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_19_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_20_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_21_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_22_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_23_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_24_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_25_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_26_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_27_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_28_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_29_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_30_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_31_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_32_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_33_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_34_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_35_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_36_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_37_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_38_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_39_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_40_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_41_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_42_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_43_delay-0.07s.gif"
+#    pause 0.07
+#    "images/anim/frame_44_delay-0.07s.gif"
+#    pause 0.07
+#    repeat
 
 
 
@@ -550,9 +550,6 @@ label second_act:
     scene forest
     stop music fadeout 1.0
     play music dark_woods volume 0.5 fadein 1 fadeout 1 loop
-    show red_glow_gif at reduced_size: 
-        xalign 0.4
-        yalign 0.5
     main_char "When it was late at night, we were only about a mile from the village."
     show arisius at left
     with dissolve
@@ -565,9 +562,8 @@ label second_act:
     with dissolve
     hanji "Let's move closer to get a better look."
     hide hanji
-    main_char "All of us are trying to be quieter than usual, perhaps this is due to the mushrooms from the village..."
     with dissolve
-    hide red_glow_gif
+    main_char "All of us are trying to be quieter than usual, perhaps this is due to the mushrooms from the village..."
     main_char "We came to a distance of about 15 feet and our guesses were unfortunately confirmed."
     main_char "On the edge of the road lay the body of a person covered with red glowing mushrooms."
     show hanji at left
